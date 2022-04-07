@@ -22,3 +22,7 @@
 - each of the row and column is displayed with past(gray),Present(red),Future(green).
 - Save button, to save up the user input
 - On top of the page is displayed the Date,Year
+##### Result
+
+###### License
+Nghia Le @2022 All Rights Reserved.

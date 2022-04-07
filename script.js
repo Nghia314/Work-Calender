@@ -25,6 +25,7 @@ $(document).ready(function () {
       }
     });
   }
+//   save every single box of input to localstorage
   $("#hour9 .Note").val(localStorage.getItem("hour9"));
   $("#hour10 .Note").val(localStorage.getItem("hour10"));
   $("#hour11 .Note").val(localStorage.getItem("hour11"));
